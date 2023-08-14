@@ -1,0 +1,849 @@
+[
+  {
+    "id": 1,
+    "title": "The World of Ice and Fire",
+    "author": "George R.R. Martin",
+    "price": 68.25,
+    "imageSrc": "images/Ice_and_Fire_Book.jpg",
+    "imageDetailsSrc": [
+      "images/Ice_and_Fire_Book.jpg",
+      "https://cdn.ozone.ro/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/t/h/93de2ae06c6c2013d946f80b1a6e1343/the-world-of-ice-and-fire-the-untold-history-of-westeros-and-the-game-of-thrones-30.jpg"
+    ],
+    "category": "Fantasy",
+    "language": "English",
+    "publishing": "2014",
+    "isbn": "9780007580910",
+    "dimension": "l: 23.5cm | H: 31.1cm",
+    "description": "The never-before-seen history of Westeros and the lands beyond. With hundreds of pages of all-new material from George R.R. Martin.If the past is prologue, then George R.R. Martin's masterwork-the most inventive and entertaining fantasy saga of our time-warrants one hell of an introduction. At long last, it has arrived with The World of Ice and Fire.George R.R. Martin, in collaboration with Elio M. Garcia, Jr. and Linda Antonsson, has written a comprehensive history of the Seven Kingdoms, featuring the epic battles, bitter rivalries, and daring rebellions that lead up to the events in the bestselling A Song of Ice and Fire series.Collected within this volume is the accumulated knowledge, scholarly speculation, and inherited folk tales of maesters and septons, maegi and singers, including over 170 full-colour illustrations and maps, family trees for the Houses Stark, Lannister and Targaryen, and in-depth explanations of the history and culture of Westeros.This is the definitive companion volume to George R.R. Martin's dazzlingly conceived universe; The World of Ice and Fire is indeed proof that the pen is mightier than a storm of swords."
+  },
+
+  {
+    "id": 2,
+    "title": "Fire And Blood",
+    "author": "George R.R. Martin",
+    "price": 55.5,
+    "imageSrc": "https://cdn.dc5.ro/img-prod/169504290-0.jpeg",
+    "imageDetailsSrc": [
+      "https://cdn.dc5.ro/img-prod/169504290-0.jpeg",
+      "https://cdn.dc5.ro/img-prod/615415379-0.jpeg"
+    ],
+    "category": "Fantasy",
+    "language": "English",
+    "publishing": "2022",
+    "isbn": "9780008563783",
+    "dimension": "l: 11cm | H: 18cm | 5cm | 380g",
+    "description": "Set centuries before the events in A Song of Ice and Fire, FIRE AND BLOOD is the definitive history of the Targaryens in Westeros as told by Archmaester Gyldayn, chronicling the conquest that united the Seven Kingdoms under Targaryen rule through to the Dance of the Dragons: the Targaryen civil war that nearly ended their dynasty forever.The thrilling history of the Targaryens comes to life in this masterly work by the author of A Song of Ice and Fire, the inspiration for HBO's Game of Thrones.With all the fire and fury fans have come to expect from internationally bestselling author George R.R. Martin, this is the first volume of the definitive two-part history of the Targaryens in Westeros.Centuries before the events of A Game of Thrones, House Targaryen - the only family of dragonlords to survive the Doom of Valyria - took up residence on Dragonstone. Fire and Blood begins their tale with the legendary Aegon the Conqueror, creator of the Iron Throne, and goes on to recount the generations of Targaryens who fought to hold that iconic seat, all the way up to the civil war that nearly tore their dynasty apart.What really happened during the Dance of the Dragons? Why was it so deadly to visit Valyria after the Doom? What were Maegor the Cruel's worst crimes? What was it like in Westeros when dragons ruled the skies? These are but a few of the questions answered in this essential chronicle, as related by a learned maester of the Citadel, and featuring more than eighty all-new black-and-white illustrations by artist Doug Wheatley.With all the scope and grandeur of Gibbon's The History of the Decline and Fall of the Roman Empire, Fire and Blood is the ultimate game of thrones, giving readers a whole new appreciation for the dynamic, often bloody, and always fascinating history of Westeros."
+  },
+
+  {
+    "id": 3,
+    "title": "Lord Of The Rings : The Fellowship Of The Ring",
+    "author": " J.R.R TOLKIEN",
+    "price": 60.25,
+    "imageSrc": "images/Fellowship-Of-The-Ring.jpg",
+    "imageDetailsSrc": [
+      "images/Fellowship-Of-The-Ring.jpg",
+      "https://m.media-amazon.com/images/I/51GMH1f2IaL._AC_UF1000,1000_QL80_.jpg",
+      "https://cdn.ozone.ro/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/t/h/7361ea7128cbb179b6a2d512437f63f2/the-lord-of-the-rings--book-1--the-fellowship-of-the-ring-tv-series-tie-in-a-30.jpg"
+    ],
+    "category": "Fantasy",
+    "language": "English",
+    "publishing": "2010",
+    "isbn": "9780008537777",
+    "dimension": "l: 11cm | H: 18cm | 3.6cm | 300g",
+    "description": "Begin your journey into Middle-earth. A New Legend Begins on Prime Video, in The Lord of the Rings: The Rings of Power.The first part of J. R. R. Tolkien's epic adventure THE LORD OF THE RINGS. In a quiet village in the Shire, young Frodo is about to receive a gift that will change his life forever. Thought lost centuries ago, it is the One Ring, an object of terrifying power once used by the Dark Lord to enslave Middle-earth. Now darkness is rising, and Frodo must travel deep into the Dark Lord's realm, to the one place the Ring can be destroyed: Mount Doom. The journey will test Frodo's courage, his friendships and his heart. Because the ring corrupts all who bear it - can Frodo destroy it, or will it destroy him?"
+  },
+  {
+    "id": 4,
+    "title": "Lord Of The Rings : The Two Towers",
+    "author": "J.R.R TOLKIEN",
+    "price": 45.75,
+    "imageSrc": "images/The-Two-Towers.jpg",
+    "imageDetailsSrc": [
+      "images/The-Two-Towers.jpg",
+      "https://m.media-amazon.com/images/I/A1y0jd28riL._AC_UF1000,1000_QL80_.jpg"
+    ],
+    "category": "Fantasy",
+    "language": "English",
+    "publishing": "2020",
+    "isbn": "9780008376079",
+    "dimension": "l: 13cm | H: 20cm",
+    "description": "The company of the Ring is torn asunder. Frodo and Sam continue their journey alone down the great River Anduin – alone, that is, save for the mysterious creeping figure that follows wherever they go.This continues the classic tale begun in The Fellowship of the Ring, which reaches its awesome climax in The Return of the King."
+  },
+  {
+    "id": 5,
+    "title": "Lord Of The Rings : The Return Of The King",
+    "author": "J.R.R TOLKIEN",
+    "price": 66,
+    "imageSrc": "images/The_Return_Of_The_King.jpg",
+    "imageDetailsSrc": [
+      "images/The_Return_Of_The_King.jpg",
+      "https://carturesti.ro/img-prod/493169652-0.jpeg",
+      "https://m.media-amazon.com/images/I/91YPlS-HzxL._AC_UF1000,1000_QL80_.jpg"
+    ],
+    "category": "Fantasy",
+    "language": "English",
+    "publishing": "2020",
+    "isbn": "9780008376086",
+    "dimension": "l: 13cm | H: 20cm",
+    "description": "The third part of J.R.R. Tolkien’s epic adventure :THE LORD OF THE RINGS.The armies of the Dark Lord are massing as his evil shadow spreads even wider. Men, Dwarves, Elves and Ents unite forces to battle against the Dark. Meanwhile, Frodo and Sam struggle further into Mordor in their heroic quest to destroy the One Ring.The devastating conclusion of J.R.R. Tolkien’s classic tale of adventure, begun in The Fellowship of the Ring and The Two Towers."
+  },
+  {
+    "id": 6,
+    "title": "The Rise And Decline Of The Roman Empire",
+    "author": "JOHN BAGNELL BURY",
+    "price": 43.25,
+    "imageSrc": "images/Roman_Empire.jpg",
+    "imageDetailsSrc": [
+      "images/Roman_Empire.jpg",
+      "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781625584212/the-history-of-the-decline-and-fall-of-the-roman-empire-complete-9781625584212_hr.jpg"
+    ],
+    "category": "History",
+    "language": "English",
+    "publishing": "2013",
+    "isbn": "9780001562334",
+    "dimension": "l: 11cm | H: 18cm | 5cm | 380g",
+    "description": "This carefully crafted ebook 'Rise and Decline of the Roman Empire' is formatted for your eReader with a functional and detailed table of contents: The Principate The Joint Government of the Princeps and Senate The Family of Augustus and His Plans to Found a Dynasty Rome and Parthia The Winning and Losing of Germany Rome Under Augustus Literature of the Augustan Age The Principate of Tiberius The Principate of Gaius Caligula The Principate of Claudius The Conquest of Britain The Principate of Nero The Wars for Armenia The Principate of Galba, and the Year of the Four Emperors Rebellions in Germany and Judea The Flavian Emperors Britain and Germany Under the Flavians Nerva and Trajan — the Conquest of Dacia Literature From the Death of Tiberius to Trajan The Principate of Hadrian The Principate of Antoninus Pius The Principate of Marcus Aurelius Literature Under Hadrian and the Antonines The Roman World Under the Empire — Politics, Philosophy, Religion and Art Roman Life and Manners Decline and the Last Years of the Roman Empire The Constitution of the Monarchy The Administrative Machinery Constantinople The Neighbours of the Empire at the End of the Fourth Century The Supremacy of Stilicho The German Invasions Under Honorius Theodosius II and Marcian The Dismemberment of the Empire in the West The Empire of Attila Leo I and Ricimer's Rule in Italy Church and State The Reign of Zeno, and the German Viceroyalty in Italy The Reign of Anastasius I and the Viceroyalty of Theoderic The Empire and Persia Justin I and Justinian I The Persian Wars The Reconquest of Africa The Reconquest of Italy Diplomacy and Commerce Administrative Reforms and Finance Ecclesiastical Policy The Legislative Work of Justinian Procopius"
+  },
+  {
+    "id": 7,
+    "title": "The Call Of Cthulhu",
+    "author": "H.P. LOVECRAFT",
+    "price": 41,
+    "imageSrc": "images/Call_Of_Cthulhu.jpg",
+    "imageDetailsSrc": [
+      "images/Call_Of_Cthulhu.jpg",
+      "https://m.media-amazon.com/images/I/81rHR4HYYSL._AC_UF1000,1000_QL80_.jpg",
+      "https://cdn.dc5.ro/img-prod/1683720493-0.jpeg"
+    ],
+    "category": "Fantasy",
+    "language": "English",
+    "publishing": "2021",
+    "isbn": "9781640410527",
+    "dimension": "l: 15.9cm | H: 24.1cm | 1.3cm | 385g",
+    "description": "Written in 1928, H.P. Lovecraft's The Call of Cthulhu defined the ancient gods as dark creatures who came from the stars and ruled the world before mankind. When these ancient ones awaken, humanity is plagued by a nightmare of terrors etched upon an epic backdrop. The author's concept deeply redefined the horror story with this thrilling, dense mystery that spawned a virtual genre.The artist Gary Gianni and designer Marcelo Anciano both felt that Lovecraft's short story presented an opportunity to visually expand the Cthulhu Mythos and push the boundaries of illustrated books. Intense and fast-paced, the tale enabled them to explore graphic storytelling and illustrate the text in a unique way. It was a personal project for Gianni, who drew upon his decades of experience in illustrating numerous books and graphic novels.The Call of Cthulhu, as illustrated by Gary Gianni, is a fusion of cinematic design, the graphic novel and illustrated books. Over a hundred finished pencil drawings with color pieces enhance and bring to life the work of two visionaries-Lovecraft and Gianni-in an extraordinary feat of storytelling and art."
+  },
+  {
+    "id": 8,
+    "title": "The Beginning And The End Of Everything",
+    "author": "PAUL PARSONS",
+    "price": 75,
+    "imageSrc": "images/Beginning-and-End.jpg",
+    "imageDetailsSrc": ["images/Beginning-and-End.jpg"],
+    "category": "Educational",
+    "language": "English",
+    "publishing": "2018",
+    "isbn": "9781782439561",
+    "dimension": "l: 11cm | H: 18cm | 5cm | 260g",
+    "description": "The Beginning and the End of Everything is the whole story as we currently understand it - from nothing, to the birth of our universe, to its ultimate fate. Authoritative and engaging, Paul Parsons takes us on a rollercoaster ride through billions of light years to tell the story of the Big Bang, from birth to death.13.8 billion years ago, something incredible happened. Matter, energy, space and time all suddenly burst into existence in a cataclysmic event that's come to be known as the Big Bang. It was the birth of our universe. What started life smaller than the tiniest subatomic particle is now unimaginably vast and plays home to trillions of galaxies. The formulation of the Big Bang theory is a story that combines some of the most far-reaching concepts in fundamental physics with equally profound observations of the cosmos.From our realization that we are on a planet orbiting a star in one of many galaxies, to the discovery that our universe is expanding, to the groundbreaking theories of Einstein that laid the groundwork for the Big Bang cosmology of today - as each new discovery deepens our understanding of the origins of our universe, a clearer picture is forming of how it will all end. Will we ultimately burn out or fade away? Could the end simply signal a new beginning, as the universe rebounds into a fresh expanding phase? And was our Big Bang just one of many, making our cosmos only a small part of a sprawling multiverse of parallel universes?"
+  },
+  {
+    "id": 9,
+    "title": "The Hunger Of The Gods",
+    "author": "JOHN GWYNNE",
+    "price": 32.15,
+    "imageSrc": "images/Hunger_Of_The_Gods.jpg",
+    "imageDetailsSrc": ["images/Hunger_Of_The_Gods.jpg"],
+    "category": "Fantasy",
+    "language": "English",
+    "publishing": "2023",
+    "isbn": "9780356514253",
+    "dimension": "l: 13cm | H: 20cm | 4.8cm | 460g",
+    "description": "The Hunger of the Gods continues John Gwynne's acclaimed Norse-inspired epic fantasy series, packed with myth, magic and bloody vengeance .Lik-Rifa, the dragon god of legend, has been freed from her eternal prison. Now she plots a new age of blood and conquest. As Orka continues the hunt for her missing son, the Bloodsworn sweep south in a desperate race to save one of their own - and Varg takes the first steps on the path of vengeance. Elvar has sworn to fulfil her blood oath and rescue a prisoner from the clutches of Lik-Rifa and her dragonborn followers, but first she must persuade the Battle-Grim to follow her. Yet even the might of the Bloodsworn and Battle-Grim cannot stand alone against a dragon god. Their hope lies within the mad writings of a chained god. A book of forbidden magic with the power to raise the wolf god Ulfrir from the dead . . . and bring about a battle that will shake the foundations of the earth. Praise for The Bloodsworn series: 'A masterfully crafted, brutally compelling Norse-inspired epic' Anthony Ryan , 'Visceral, heart-breaking and unputdownable' Jay Kristoff ,'A satisfying and riveting read. The well-realised characters move against a backdrop of a world stunning in its immensity. It's everything I've come to expect from a John Gwynne book' Robin Hobb ."
+  },
+  {
+    "id": 10,
+    "title": "The Waking Fire",
+    "author": "ANTHONY RYAN",
+    "price": 35.55,
+    "imageSrc": "images/The_Waking_Fire.jpg",
+    "imageDetailsSrc": [
+      "images/The_Waking_Fire.jpg",
+      "https://cdn.kobo.com/book-images/d0077245-82a6-4e14-96bc-15f05754ee38/1200/1200/False/the-waking-fire-1.jpg"
+    ],
+    "category": "Fantasy",
+    "language": "English",
+    "publishing": "2017",
+    "isbn": "9780356506364",
+    "dimension": "l: 12.8cm | H: 20cm | 0.2cm | 478g",
+    "description": "The New York Times bestselling Raven’s Shadow Trilogy was a perfect read for “fans of broadscale epic fantasy along the lines of Robert Jordan’s Wheel of Time series and George R. R. Martin’s Song of Ice and Fire novels.”* Now, Anthony Ryan begins a new saga, The Draconis Memoria... . Throughout the vast lands controlled by the Ironship Trading Syndicate, nothing is more prized than the blood of drakes. Harvested from captive or hunted Reds, Greens, Blues and Blacks, it can be distilled into elixirs that bestow fearsome powers on the rare men and women known as the Blood-blessed. But not many know the truth: that the lines of drakes are weakening. If they fail, war with the neighboring Corvantine Empire will follow swiftly. The Syndicate’s last hope resides in whispers of the existence of another breed of drake, far more powerful than the rest, and the few who have been chosen by fate to seek it. Claydon Torcreek is a petty thief and an unregistered Blood-blessed who finds himself pressed into service by the Protectorate and sent to wild, uncharted lands in search of a creature he believes is little more than legend. Lizanne Lethridge is a formidable spy and assassin facing gravest danger on an espionage mission deep into the heart of enemy territory. And Corrick Hilemore is the second lieutenant of an Ironship cruiser whose pursuit of ruthless brigands leads him to a far greater threat at the edge of the world. As lives and empires clash and intertwine, as the unknown and the known collide, all three must fight to turn the tide of a coming war, or drown in its wake."
+  },
+  {
+    "id": 11,
+    "title": "Age Of Swords",
+    "author": "MICHAEL J. SULLIVAN",
+    "price": 25,
+    "imageSrc": "images/Age_Of_Swords.jpg",
+    "imageDetailsSrc": [
+      "images/Age_Of_Swords.jpg",
+      "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1455375166i/24391010.jpg"
+    ],
+    "category": "Fantasy",
+    "language": "English",
+    "publishing": "2018",
+    "isbn": "9781101965382",
+    "dimension": "l: 10.7cm | H: 19cm",
+    "description": "The gods have been proven mortal and new heroes will arise as the battle continues in the sequel to Age of Myth--from the author of the Riyria Revelations and Riyria Chronicles series. In Age of Myth, fantasy master Michael J. Sullivan launched readers on an epic journey of magic and adventure, heroism and betrayal, love and loss. Now the thrilling saga continues as the human uprising is threatened by powerful enemies from without--and bitter rivalries from within. Raithe, the God Killer, may have started the rebellion by killing a Fhrey, but long-standing enmities dividing the Rhunes make it all but impossible to unite against the common foe. And even if the clans can join forces, how will they defeat an enemy whose magical prowess renders them indistinguishable from gods? The answer lies across the sea in a faraway land populated by a reclusive and dour race who feel nothing but disdain for both Fhrey and mankind. With time running out, Persephone leads the gifted young seer Suri, the Fhrey sorceress Arion, and a small band of misfits in a desperate search for aid--a quest that will take them into the darkest depths of Elan. There, an ancient adversary waits, as fearsome as it is deadly. Don't miss any of Michael J. Sullivan's Legends of the First Empire novels: AGE OF MYTH - AGE OF SWORDS (Coming soon!) Praise for Michael J. Sullivan 'If you enjoy epic fantasy, and are perhaps hungering for something with timeless appeal, then I highly recommend picking up Age of Myth.'--The BiblioSanctum, on Age of Myth ; Hair-raising escapes, flashy sword fights, and faithful friendship complete the formula for good old-fashioned escapist fun.--Publishers Weekly, on Theft of Swords ;Filled with adventure and clever dialog and featuring a pair of not-quite-heroes whose loyalties to each other provide them with their greatest strength, this epic fantasy showcases the arrival of a master storyteller.--Library Journal, on Theft of Swords ;With less gore and a smaller cast of characters than George R. R. Martin's Song of Ice and Fire but equally satisfying, Sullivan's epic fantasy will be gaining fans at exponential rates.--Library Journal, on The Rose and the Thorn"
+  },
+  {
+    "id": 12,
+    "title": "Art Of War",
+    "author": "SUN TZU",
+    "price": 43.55,
+    "imageSrc": "images/Art_Of_War.jpg",
+    "imageDetailsSrc": [
+      "images/Art_Of_War.jpg",
+      "https://m.media-amazon.com/images/I/71MizulW5AL._AC_UF1000,1000_QL80_.jpg"
+    ],
+    "category": "History",
+    "language": "English",
+    "publishing": "2020",
+    "isbn": "9781847497468",
+    "dimension": "l: 12.8cm | H: 19.8cm | 1.3cm | 122g",
+    "description": "For two and a half thousand years The Art of War has been the core text of military strategy and planning, providing leaders with enduring insights into tactics, psychology, discipline and the nature of power. Favoured by countless great generals and military tacticians throughout history, over the last century the book has found a new lease of life, inspiring business leaders, politicians and sporting figures, and offering a profound understanding of such diverse topics as managing others and outwitting competitors. Alma Classics Evergreens is a series of popular classics. All the titles in the series are provided with an extensive critical apparatus and extra reading material, including a section of photographs and notes. The texts are based on the most authoritative edition (or collated from the most authoritative editions or manuscripts) and edited using a fresh, intelligent editorial approach. With an emphasis on the production, editorial and typographical values of a book, Alma Classics aspires to revitalize the whole experience of reading the classics."
+  },
+  {
+    "id": 13,
+    "title": "Nineteen Eighty Four",
+    "author": "George Orwell",
+    "price": 64.15,
+    "imageSrc": "images/1984.jpg",
+    "imageDetailsSrc": [
+      "images/1984.jpg",
+      "https://m.media-amazon.com/images/I/71kxa1-0mfL._AC_UF1000,1000_QL80_.jpg",
+      "https://m.media-amazon.com/images/I/61NAx5pd6XL._AC_UF1000,1000_QL80_.jpg"
+    ],
+    "category": "Clasic",
+    "language": "English",
+    "publishing": "2023",
+    "isbn": "9789734694365",
+    "dimension": "l: 16.5cm | H: 22.5cm",
+    "description": "1984 has come and gone, but George Orwell's prophetic, nightmare vision in 1949 of the world we were becoming is timelier than ever. '1984' is still the great modern classic negative Utopia - a startling original and haunting novel that creates an imaginary world that is completely convincing from the first sentence to the last four words. No one can deny this novel's power, its hold on the imagination of whole generations, or the power of its admonitions - a power that seems to grow, not lessen, with the passage of time."
+  },
+  {
+    "id": 14,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "price": 42,
+    "imageSrc": "images/pride_prejudice.jpg",
+    "imageDetailsSrc": [
+      "images/pride_prejudice.jpg",
+      "https://m.media-amazon.com/images/I/71Q1tPupKjL._AC_UF1000,1000_QL80_.jpg"
+    ],
+    "category": "Romance",
+    "language": "English",
+    "publishing": "2010",
+    "isbn": "9780007350773",
+    "dimension": "l: 11cm | H: 17cm | 2.6cm | 230g",
+    "description": "HarperCollins is proud to present its new range of best-loved, essential classics. 'It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.' Austen's best-loved tale of love, marriage and society in class-conscious Georgian England still delights modern readers today with its comedy and characters. It follows the feisty, quick-witted Elizabeth Bennet as her parents seek to ensure good marriages for her and her sisters in order to secure their future. The protagonists Darcy and Elizabeth learn much about themselves and those around them and Austen's expertly crafted comedy characters of Mrs Bennet and Mr Collins demonstrate her great artistry as a writer."
+  },
+  {
+    "id": 15,
+    "title": "The Grapes of Wrath",
+    "author": "John Steinbeck",
+    "price": 62.55,
+    "imageSrc": "images/grapes_of_wrath.jpg",
+    "imageDetailsSrc": [
+      "images/grapes_of_wrath.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/The_Grapes_of_Wrath_%281940_poster%29.jpg/1200px-The_Grapes_of_Wrath_%281940_poster%29.jpg"
+    ],
+    "category": "Clasic",
+    "language": "English",
+    "publishing": "1993",
+    "isbn": "9781857151541",
+    "dimension": "l: 13.5cm | H: 21cm",
+    "description": "An epic story of the nineteen-thirties' Depression which traces the story of one destitute family among the thousands who fled the Dust Bowl to the promise of California, THE GRAPES OF WRATH awakened the conscience of a nation. Awarded the Pulitzer Prize on its appearance in 1939, Steinbeck's novel has been compared in its impact and influence with UNCLE TOM'S CABIN."
+  },
+  {
+    "id": 16,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "price": 36.75,
+    "imageSrc": "images/to_kill_a_mocking_bird.jpg",
+    "imageDetailsSrc": [
+      "images/to_kill_a_mocking_bird.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/To_Kill_a_Mockingbird_%28first_edition_cover%29.jpg/1200px-To_Kill_a_Mockingbird_%28first_edition_cover%29.jpg",
+      "https://m.media-amazon.com/images/I/71FxgtFKcQL._AC_UF1000,1000_QL80_.jpg"
+    ],
+    "category": "Modern",
+    "language": "English",
+    "publishing": "2015",
+    "isbn": "9781784870799",
+    "dimension": "l: 13cm | H: 19cm | 3.3cm | 328g",
+    "description": "'Shoot all the bluejays you want, if you can hit 'em, but remember it's a sin to kill a mockingbird' Meet Scout, the narrator of this book. Discover timeless favourites from The Jungle Book and Alice's Adventures in Wonderland to modern classics such as The Boy in the Striped Pyjamas and The Curious Incident of the Dog in the Night-Time."
+  },
+  {
+    "id": 17,
+    "title": "Lord of the Flies",
+    "author": "William Golding",
+    "price": 43,
+    "imageSrc": "images/lord_of_flies.jpg",
+    "imageDetailsSrc": [
+      "images/lord_of_flies.jpg",
+      "https://m.media-amazon.com/images/I/81jlbxMyR4L._AC_UF894,1000_QL80_.jpg",
+      "https://static01.nyt.com/images/2016/10/30/books/review/30LOWRY-CRITICSTAKE/30LOWRY-CRITICSTAKE-superJumbo-v2.jpg"
+    ],
+    "category": "Modern",
+    "language": "English",
+    "publishing": "2011",
+    "isbn": "9780008376079",
+    "dimension": "l: 12.6cm | H: 19.8cm",
+    "description": "A plane crashes on a desert island and the only survivors, a group of schoolboys, assemble on the beach and wait to be rescued. By day they inhabit a land of bright fantastic birds and dark blue seas, but at night their dreams are haunted by the image of a terrifying beast. As the boys' delicate sense of order fades, so their childish dreams are transformed into something more primitive, and their behaviour starts to take on a murderous, savage significance. First published in 1954, Lord of the Flies is one of the most celebrated and widely read of modern classics."
+  },
+  {
+    "id": 18,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "price": 62.35,
+    "imageSrc": "images/great_gatsby.jpg",
+    "imageDetailsSrc": [
+      "images/great_gatsby.jpg",
+      "https://m.media-amazon.com/images/I/71FTb9X6wsL._AC_UF1000,1000_QL80_.jpg",
+      "https://cdn.dc5.ro/img-prod/887625714-0.jpeg"
+    ],
+    "category": "Modern",
+    "language": "English",
+    "publishing": "2016",
+    "isbn": "9780008376079",
+    "dimension": "l: 13cm | H: 20cm",
+    "description": "Invited to an extravagantly lavish party in a Long Island mansion, Nick Carraway, a young bachelor who has just settled in the neighbouring cottage, is intrigued by the mysterious host, Jay Gatsby, a flamboyant but reserved self-made man with murky business interests and a shadowy past. As the two men strike up an unlikely friendship, details of Gatsby's impossible love for a married woman emerge, until events spiral into tragedy. Regarded as Fitzgerald's masterpiece and one of the greatest novels of American literature, The Great Gatsby is a vivid chronicle of the excesses and decadence of the “Jazz Age”, as well as a timeless cautionary critique of the American dream."
+  },
+
+  {
+    "id": 19,
+    "title": "Harry Potter and the Deathly Hallows",
+    "author": "J. K Rowling",
+    "price": 17,
+    "imageSrc": "images/deathly_hallows.jpg",
+    "imageDetailsSrc": [
+      "images/deathly_hallows.jpg",
+      "https://m.media-amazon.com/images/I/81Whkax7IGL._AC_UF894,1000_QL80_.jpg"
+    ],
+    "category": "Fantasy",
+    "language": "English",
+    "publishing": "2014",
+    "isbn": "9781408855713",
+    "dimension": "l: 12.9cm | H: 19.8cm",
+    "description": "As he climbs into the sidecar of Hagrid's motorbike and takes to the skies, leaving Privet Drive for the last time, Harry Potter knows that Lord Voldemort and the Death Eaters are not far behind. The protective charm that has kept Harry safe until now is now broken, but he cannot keep hiding. The Dark Lord is breathing fear into everything Harry loves, and to stop him Harry will have to find and destroy the remaining Horcruxes. The final battle must begin - Harry must stand and face his enemy. These new editions of the classic and internationally bestselling, multi-award-winning series feature instantly pick-up-able new jackets by Jonny Duddle, with huge child appeal, to bring Harry Potter to the next generation of readers. It's time to PASS THE MAGIC ON ."
+  },
+
+  {
+    "id": 20,
+    "title": "Harry Potter and the Order of the Phoenix",
+    "author": "J. K Rowling",
+    "price": 21.65,
+    "imageSrc": "images/harry_potter_and_the_order_of_the_phoenix.jpg",
+    "imageDetailsSrc": [
+      "images/harry_potter_and_the_order_of_the_phoenix.jpg",
+      "https://m.media-amazon.com/images/I/516c41oodRL._AC_UF1000,1000_QL80_.jpg"
+    ],
+    "category": "Fantasy",
+    "language": "English",
+    "publishing": "2020",
+    "isbn": "9781526618191",
+    "dimension": "l: 12.9cm | H: 19.8cm",
+    "description": "Let the magic of J.K. Rowling's classic Harry Potter series transport you to Hogwarts School of Witchcraft and Wizardry. This Ravenclaw House Edition of Harry Potter and the Order of the Phoenix celebrates the noble character of the Hogwarts house famed for its wit, learning and wisdom. Harry's fifth year at Hogwarts is packed with more great Ravenclaw moments and characters, including the inimitable Luna Lovegood, whose Ravenclaw intelligence and insight make her a key member of Dumbledore's Army. Each Ravenclaw House Edition features vibrant sprayed edges and intricate bronze foiling. The Order's iconic phoenix symbol rises from the flames at the very centre of the front cover, framed by stunning iconography of the Hall of Prophecy, twinkling with floating orbs of light. In addition to a bespoke introduction, the book also includes new illustrations by Kate Greenaway Medal winner Levi Pinfold, including a mysterious portrait of Ravenclaw alumna and Divination teacher Sybill Trelawney. All seven books in the series will be issued in these highly collectable, beautifully crafted House Editions, designed to be treasured and read for years to come. A must-have for anyone who has ever imagined sitting under the Sorting Hat in the Great Hall at Hogwarts waiting to hear the words, 'Better be RAVENCLAW!'"
+  },
+
+  {
+    "id": 21,
+    "title": "Harry Potter And The Chamber Of Secrets",
+    "author": "J. K Rowling",
+    "price": 15.55,
+    "imageSrc": "images/chamber_of_secrets.jpg",
+    "imageDetailsSrc": [
+      "images/chamber_of_secrets.jpg",
+      "https://m.media-amazon.com/images/I/81S0LnPGGUL._AC_UF894,1000_QL80_.jpg"
+    ],
+    "category": "Fantasy",
+    "language": "English",
+    "publishing": "2014",
+    "isbn": "9781408855669",
+    "dimension": "l: 12.9cm | H: 19.8cm",
+    "description": "Harry Potter's summer has included the worst birthday ever, doomy warnings from a house-elf called Dobby, and rescue from the Dursleys by his friend Ron Weasley in a magical flying car! Back at Hogwarts School of Witchcraft and Wizardry for his second year, Harry hears strange whispers echo through empty corridors - and then the attacks start. Students are found as though turned to stone . Dobby's sinister predictions seem to be coming true. These new editions of the classic and internationally bestselling, multi-award-winning series feature instantly pick-up-able new jackets by Jonny Duddle, with huge child appeal, to bring Harry Potter to the next generation of readers. It's time to PASS THE MAGIC ON ."
+  },
+
+  {
+    "id": 22,
+    "title": "Harry Potter And The Prisoner Of Azkaban",
+    "author": "J. K Rowling",
+    "price": 20,
+    "imageSrc": "images/prisoner_of_azkaban.jpg",
+    "imageDetailsSrc": [
+      "images/prisoner_of_azkaban.jpg",
+      "https://m.media-amazon.com/images/I/81lAPl9Fl0L._AC_UF1000,1000_QL80_.jpg"
+    ],
+    "category": "Fantasy",
+    "language": "English",
+    "publishing": "2014",
+    "isbn": "9781408855676",
+    "dimension": "l: 12.9cm | H: 19.8cm",
+    "description": "When the Knight Bus crashes through the darkness and screeches to a halt in front of him, it's the start of another far from ordinary year at Hogwarts for Harry Potter. Sirius Black, escaped mass-murderer and follower of Lord Voldemort, is on the run - and they say he is coming after Harry. In his first ever Divination class, Professor Trelawney sees an omen of death in Harry's tea leaves . But perhaps most terrifying of all are the Dementors patrolling the school grounds, with their soul-sucking kiss. These new editions of the classic and internationally bestselling, multi-award-winning series feature instantly pick-up-able new jackets by Jonny Duddle, with huge child appeal, to bring Harry Potter to the next generation of readers. It's time to PASS THE MAGIC ON ."
+  },
+
+  {
+    "id": 23,
+    "title": "Harry Potter and the Goblet of Fire",
+    "author": "J. K Rowling",
+    "price": 26,
+    "imageSrc": "images/goblet_of_fire.jpg",
+    "imageDetailsSrc": [
+      "images/goblet_of_fire.jpg",
+      "https://toycra.com/cdn/shop/files/Harry-Potter-And-The-Goblet-Of-Fire-Story-Books-Bl-Toycra_1024x1024.jpg?v=1688291558"
+    ],
+    "category": "Fantasy",
+    "language": "English",
+    "publishing": "2007",
+    "isbn": "9781526610300",
+    "dimension": "l: 12.9cm | H: 19.8cm",
+    "description": "Let the magic of J.K. Rowling's classic Harry Potter series take you back to Hogwarts School of Witchcraft and Wizardry. This Hufflepuff House Edition of Harry Potter and the Goblet of Fire celebrates the noble character of the Hogwarts house famed for its dedication, patience and loyalty. Harry's fourth year at Hogwarts is packed with more great Hufflepuff moments and characters - not least the heroism and valour of Hogwarts champion Cedric Diggory in the thrilling Triwizard Tournament ... .Each Hufflepuff House Edition features vibrant sprayed edges and intricate silver foiling. The Goblet of Fire blazes at the very centre of the front cover, framed by stunning iconography that draws on themes and moments from J.K. Rowling's much-loved story. In addition to a bespoke introduction and exclusive insights into the magical paintings of Hogwarts, the book also boasts new illustrations by Kate Greenaway winner Levi Pinfold, including a spectacular portrait of Hogwarts' heartthrob, Cedric Diggory. All seven books in the series will be issued in these highly collectable, beautifully crafted House Editions, designed to be treasured and read for years to come. .A must-have for anyone who has ever imagined sitting under the Sorting Hat in the Great Hall at Hogwarts waiting to hear the words, 'Better be HUFFLEPUFF!'"
+  },
+
+  {
+    "id": 24,
+    "title": "Harry Potter And The Philosopher's Stone",
+    "author": "J. K Rowling",
+    "price": 19.95,
+    "imageSrc": "images/philosopher_stone.jpg",
+    "imageDetailsSrc": [
+      "images/philosopher_stone.jpg",
+      "https://m.media-amazon.com/images/I/51MjPyuVqRL._AC_UF1000,1000_QL80_.jpg"
+    ],
+    "category": "Fantasy",
+    "language": "English",
+    "publishing": "2014",
+    "isbn": "9781408855652",
+    "dimension": "l: 14cm | H: 20cm | 2.2cm | 290g",
+    "description": "The boy wizard Harry Potter has been casting a spell over young readers and their families ever since 1997. Now the first book in this unmissable series celebrates 25 years in print! The paperback edition of the tale that introduced us to Harry, Ron and Hermione has been updated and dressed in silver to mark the occasion. It's time to take the magical journey of a lifetime ... Harry Potter has never even heard of Hogwarts when the letters start dropping on the doormat at number four, Privet Drive. Addressed in green ink on yellowish parchment with a purple seal, they are swiftly confiscated by his grisly aunt and uncle. Then, on Harry's eleventh birthday, a great beetle-eyed giant of a man called Rubeus Hagrid bursts in with some astonishing news: Harry Potter is a wizard, and he has a place at Hogwarts School of Witchcraft and Wizardry. An incredible adventure is about to begin! These editions of the classic and internationally bestselling Harry Potter series feature thrilling jacket artwork by award-winning illustrator Jonny Duddle. They are the perfect starting point for anyone who's ready to lose themselves in the greatest children's story of all time. Available for one year only, Harry's first adventure - Harry Potter and the Philosopher's Stone - has been emblazoned in silver and refreshed with extra content including a new Hogwarts crest illustration and Q&A with Jonny Duddle, plus fun facts exploring the origins of names such as Albus Dumbledore, Hedwig and other favourite characters."
+  },
+
+  {
+    "id": 25,
+    "title": "Harry Potter and the Half-Blood Prince",
+    "author": "J. K Rowling",
+    "price": 21,
+    "imageSrc": "images/half_blood_prince.jpg",
+    "imageDetailsSrc": [
+      "images/half_blood_prince.jpg",
+      "https://m.media-amazon.com/images/I/61sXBXmAWML._AC_UF1000,1000_QL80_.jpg"
+    ],
+    "category": "Fantasy",
+    "language": "English",
+    "publishing": "2013",
+    "isbn": "9781526618276",
+    "dimension": "l: 12.9cm | H: 19.8cm",
+    "description": "This Ravenclaw House Edition of Harry Potter and the Half-Blood Prince celebrates the noble character of the Hogwarts house famed for its wit, learning and wisdom. Harry's sixth year at Hogwarts is packed with more great Ravenclaw moments and characters - not least Luna Lovegood's debut Quidditch commentary. Each Ravenclaw House Edition features vibrant sprayed edges and intricate bronze foiling. The stunning cover design has a cameo-style portrait of the Half-Blood Prince as the central icon, framed by beautiful house-themed iconography. In addition to a bespoke introduction, the Ravenclaw Edition also contains new illustrations by Kate Greenaway Medal winner Levi Pinfold, including a portrait of inimitable Ravenclaw student Luna Lovegood, and a wonderful image of Gilderoy Lockhart signing copies of Magical Me to accompany a feature on magical books. All seven books in the series will be issued in these highly collectable, beautifully crafted House Editions, designed to be treasured and read for years to come. A must-have for anyone who has ever imagined sitting under the Sorting Hat in the Great Hall at Hogwarts waiting to hear the words, 'Better be RAVENCLAW'!"
+  },
+
+  {
+    "id": 26,
+    "title": "Heart of Darkness",
+    "author": "Joseph Conrad",
+    "price": 34.15,
+    "imageSrc": "images/heart_of_darkness.jpg",
+    "imageDetailsSrc": [
+      "images/heart_of_darkness.jpg",
+      "https://the-comics-journal.sfo3.digitaloceanspaces.com/wp-content/uploads/2019/09/Heart-of-Darkness-2019Final-scaled.jpg"
+    ],
+    "category": "Clasic",
+    "language": "English",
+    "publishing": "2019",
+    "isbn": "9780393635645",
+    "dimension": "l: 15.5cm | H: 23.5cm",
+    "description": "Joseph Conrad's Heart of Darkness has unsettled generations of readers with its haunting portrait of colonialism and the brutal exploitation of African lives. Peter Kuper's graphic adaptation reimagines this singular masterpiece for a new generation. Illustrated to evoke early twentieth-century woodcuts, Kuper's Heart of Darkness confronts Conrad s famously ambiguous, labyrinthine sentences and invents in stark black and white panels a visual language that excavates the hidden corners of Conrad's 1899 masterpiece. Capturing the ominous atmosphere and hellish conditions of the Belgian Congo, Kuper transforms this lurid tale of madness, greed and evil into something shockingly modern. Kuper interrogates the problematic legacy of Heart of Darkness by grappling with Conrad's own colonial attitudes and racist imagery which still endure today. Long-time admirers of the novel will see Conrad's opus with new eyes while new readers will discover a brilliant introduction to a classic work."
+  },
+
+  {
+    "id": 27,
+    "title": "The Way We Live Now",
+    "author": "Anthony Trollope",
+    "price": 39.55,
+    "imageSrc": "images/the_way_we_live_now.jpg",
+    "imageDetailsSrc": [
+      "images/the_way_we_live_now.jpg",
+      "https://m.media-amazon.com/images/I/419QwNo1BKL._AC_UF1000,1000_QL80_.jpg"
+    ],
+    "category": "History",
+    "language": "English",
+    "publishing": "2016",
+    "isbn": "9780198705031",
+    "dimension": "l: 13.1cm | H: 19.8cm | 4cm | 580g",
+    "description": "Melmotte is an outsider of obscure origins and riches. A ruthless financier, he charms the rich and powerful elite into investing in dubious schemes. He conspires his way to political influence, his rise swift due to the corrupt society he invades. The Way We Live Now is a lurid tale-of-the-times with one of fiction's most memorable villains"
+  },
+
+  {
+    "id": 28,
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "price": 40.25,
+    "imageSrc": "images/frankenstein.jpg",
+    "imageDetailsSrc": [
+      "images/frankenstein.jpg",
+      "https://m.media-amazon.com/images/I/71hCBEMpQ0L._AC_UF1000,1000_QL80_.jpg"
+    ],
+    "category": "Thriller",
+    "language": "English",
+    "publishing": "2010",
+    "isbn": "9780007350964",
+    "dimension": "l: 11cm | H: 17.8cm | 1.5cm | 130g",
+    "description": "′It was already one in the morning; the rain pattered dismally against the panes, and my candle was nearly burnt out, when, by the glimmer of the half-extinguished light, I saw the dull yellow eye of the creature open...′ Written when Mary Shelley was only nineteen-years old, this chilling tale of a young scientist′s desire to create life still resonates today. Victor Frankenstein′s monster is stitched together from the stolen limbs of the dead, and the result is a grotesque being who, rejected by his maker, sets out on a journey to reek his revenge. In the most famous gothic horror story ever told, Shelley confronts the limitations of science, the nature of human cruelty and the pathway to forgiveness with rich language and evocative imagery."
+  },
+  {
+    "id": 29,
+    "title": "War of the Worlds",
+    "author": "H. G. Wells",
+    "price": 36.75,
+    "imageSrc": "images/war_of_worlds.jpg",
+    "imageDetailsSrc": [
+      "images/war_of_worlds.jpg",
+      "https://m.media-amazon.com/images/I/51ko-yy43tL._AC_UF1000,1000_QL80_.jpg"
+    ],
+    "category": "Fantasy",
+    "language": "English",
+    "publishing": "2017",
+    "isbn": "9781847496461",
+    "dimension": "l: 12.9cm | H: 20cm | 3.1cm | 248g",
+    "description": "Part of Alma Classics Evergreen series of popular classics, this new edition includes pictures and an extensive section on Wells's life and works."
+  },
+
+  {
+    "id": 30,
+    "title": "The Count of Monte Cristo",
+    "author": "Alexandre Dumas",
+    "price": 29.55,
+    "imageSrc": "images/count_of_monte_cristo.jpg",
+    "imageDetailsSrc": ["images/count_of_monte_cristo.jpg"],
+    "category": "Clasic",
+    "language": "English",
+    "publishing": "2017",
+    "isbn": "9781509827978",
+    "dimension": "l: 10.2cm | H: 15.6cm",
+    "description": "The Count of Monte Cristo by Alexandre Dumas is the ultimate novel of retribution. Based on a true story, it recounts the story of Edouard Dantes, his betrayal and imprisonment in the sinister Chateau d'If. Years later, Paris is intrigued by the mysterious Count of Monte Cristo, who bursts onto the Paris social scene with his millions. He encounters the three principal betrayers of Dantes who have prospered in the post-Napoleonic boom and, one by one, their lives fall apart. The book was a huge, popular success when it was first serialized in 1844, and remains the greatest tale of revenge. This beautiful, abridged Macmillan Collector's Library edition of The Count of Monte Cristo features an afterword by Marcus Clapham. Designed to appeal to the booklover, the Macmillan Collector's Library is a series of beautiful gift editions of much loved classic titles. Macmillan Collector's Library are books to love and treasure."
+  },
+
+  {
+    "id": 31,
+    "title": "The City of Brass",
+    "author": "S. A. Chakraborty",
+    "price": 15.55,
+    "imageSrc": "images/city_of_brass.jpg",
+    "imageDetailsSrc": [
+      "images/city_of_brass.jpg",
+      "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1491417547i/32718027.jpg"
+    ],
+    "category": "Fantasy",
+    "language": "English",
+    "publishing": "2018",
+    "isbn": "9780008239428",
+    "dimension": "l: 12.9cm | H: 19.8cm",
+    "description": "Discover this spellbinding debut from S.A. Chakraborty. `An extravagant feast of a book - spicy and bloody, dizzyingly magical, and still, somehow, utterly believable' Laini Taylor, Sunday Times and New York Times bestselling author Among the bustling markets of eighteenth century Cairo, the city's outcasts eke out a living swindling rich Ottoman nobles and foreign invaders alike. But alongside this new world the old stories linger. Tales of djinn and spirits. Of cities hidden among the swirling sands of the desert, full of enchantment, desire and riches. Where magic pours down every street, hanging in the air like dust. Many wish their lives could be filled with such wonder, but not Nahri. She knows the trades she uses to get by are just tricks and sleights of hand: there's nothing magical about them. She only wishes to one day leave Cairo, but as the saying goes... Be careful what you wish for."
+  },
+  {
+    "id": 32,
+    "title": "The Sorcerer of the Wildeeps",
+    "author": "Kai Ashante Wilson",
+    "price": 26.75,
+    "imageSrc": "images/sorcerer_of_wilderness.jpg",
+    "imageDetailsSrc": ["images/sorcerer_of_wilderness.jpg"],
+    "category": "Fantasy",
+    "language": "English",
+    "publishing": "2015",
+    "isbn": "9780008358874",
+    "dimension": "l: 13cm | H: 24cm",
+    "description": "The Sorcerer of the Wildeeps is a 2015 LGBT science fantasy novella, the debut novella by Kai Ashante Wilson. It is set in the same fictional universe as his later novella A Taste of Honey, as well as several of his short stories. It won the 2016 Crawford Award."
+  },
+  {
+    "id": 33,
+    "title": "The Unfinished World",
+    "author": "Amber Sparks",
+    "price": 35.85,
+    "imageSrc": "images/the_unfinished_world.jpg",
+    "imageDetailsSrc": [
+      "images/the_unfinished_world.jpg",
+      "https://m.media-amazon.com/images/I/419iBhkbD7L._AC_UF1000,1000_QL80_.jpg"
+    ],
+    "category": "Fantasy",
+    "language": "English",
+    "publishing": "2017",
+    "isbn": "978000847775",
+    "dimension": "l: 13cm | H: 20cm",
+    "description": "In the weird and wonderful tradition of Kelly Link and Karen Russell, Amber Sparks's dazzling new collection bursts forth with stories that render the apocalyptic and otherworldly hauntingly familiar. In The Cemetery for Lost Faces, two orphans translate their grief into taxidermy, artfully arresting the passage of time. The anchoring novella, The Unfinished World, unfurls a surprising love story between a free and adventurous young woman and a dashing filmmaker burdened by a mysterious family. Sparks's stories - populated with sculptors, librarians, astronauts, and warriors - form a veritable cabinet of curiosities. Mythical, bizarre, and deeply moving, The Unfinished World and Other Stories heralds the arrival of a major writer and illuminates the search for a brief encounter with the extraordinary."
+  },
+  {
+    "id": 34,
+    "title": "Witchmark",
+    "author": "C.L. Polk",
+    "price": 39.45,
+    "imageSrc": "images/witchmark.jpg",
+    "imageDetailsSrc": ["images/witchmark.jpg"],
+    "category": "Fantasy",
+    "language": "English",
+    "publishing": "2018",
+    "isbn": "9781250162687",
+    "dimension": "l: 13cm | H: 20cm",
+    "description": "A stunning, addictive fantasy debut that combines intrigue, magic, betrayal, and romance in an original world with a historical WWI tone."
+  },
+  {
+    "id": 35,
+    "title": "What Should Be Wild",
+    "author": "Julia Fine",
+    "price": 43.25,
+    "imageSrc": "images/what_should_be_wild.jpg",
+    "imageDetailsSrc": ["images/what_should_be_wild.jpg"],
+    "category": "Fantasy",
+    "language": "English",
+    "publishing": "2007",
+    "isbn": "978000455578515",
+    "dimension": "l: 13cm | H: 14cm",
+    "description": "Cursed. Maisie Cothay has never known the feel of human flesh: born with the power to kill or resurrect at her slightest touch, she has spent her childhood sequestered in the family's manor at the edge of a mysterious forest. Maisie's father, an anthropologist who sees her as more experiment than daughter, has warned Maisie that local villagers talk of men disappearing inside this dark wood; when they return, their minds are addled, their stories strange. What he has not told her is that for centuries, her female ancestors have also vanished into the wood, never to emerge.But one day Maisie's father disappears and Maisie must venture beyond the walls of her carefully constructed life to find him. Away from her home and the woods for the very first time, she encounters a strange and terrifying world filled with love, excitement, and dark human forces. Yet the further she strays, the more the wood calls to her. For only there can Maisie finally reckon with her power and come to understand the wildest parts of herself."
+  },
+  {
+    "id": 36,
+    "title": "A Darker Shade of Magic",
+    "author": "V.E. Schwab",
+    "price": 28.75,
+    "imageSrc": "images/darker_shade_of_magic.jpg",
+    "imageDetailsSrc": [
+      "images/darker_shade_of_magic.jpg",
+      "https://m.media-amazon.com/images/I/81Zd2d+NMZL._AC_UF1000,1000_QL80_.jpg"
+    ],
+    "category": "Fantasy",
+    "language": "English",
+    "publishing": "2015",
+    "isbn": "9781783295401",
+    "dimension": "l: 13.1cm | H: 20.1cm",
+    "description": "Most people only know one London; but what if there were several? Kell is one of the last Travelers magicians with a rare ability to travel between parallel Londons. There is Grey London, dirty and crowded and without magic, home to the mad king George III. There is Red London, where life and magic are revered. Then, White London, ruled by whoever has murdered their way to the throne. But once upon a time, there was Black London..."
+  },
+  {
+    "id": 37,
+    "title": "The Black Tides of Heaven",
+    "author": "Neon Yang",
+    "price": 23.15,
+    "imageSrc": "images/black_tides_of_heaven.jpg",
+    "imageDetailsSrc": ["images/black_tides_of_heaven.jpg"],
+    "category": "Fantasy",
+    "language": "English",
+    "publishing": "2013",
+    "isbn": "9780008555214",
+    "dimension": "l: 13cm | H: 18.5cm",
+    "description": "Mokoya and Akeha, the twin children of the Protector, were sold to the Grand Monastery as infants. While Mokoya developed her strange prophetic gift, Akeha was always the one who could see the strings that moved adults to action. While Mokoya received visions of what would be, Akeha realized what could be. What's more, they saw the sickness at the heart of their mother's Protectorate. A rebellion is growing. The Machinists discover new levers to move the world every day, while the Tensors fight to put them down and preserve the power of the state. Unwilling to continue as a pawn in their mother's twisted schemes, Akeha leaves the Tensorate behind and falls in with the rebels. But every step Akeha takes towards the Machinists is a step away from Mokoya. Can Akeha find peace without shattering the bond they share with their twin?"
+  },
+  {
+    "id": 38,
+    "title": "A Game of Thrones",
+    "author": "George R. R. Martin",
+    "price": 43.25,
+    "imageSrc": "images/A_game_of_thrones.jpg",
+    "imageDetailsSrc": [
+      "images/A_game_of_thrones.jpg",
+      "https://cdn.ozone.ro/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/a/-/a4599885dd6292f3bc018cad3b6266b2/a-game-of-thrones--book-1-30.jpg"
+    ],
+    "category": "Fantasy",
+    "language": "English",
+    "publishing": "2016",
+    "isbn": "9780008209100",
+    "dimension": "l: 17.1cm | H: 23.9cm ",
+    "description": "Published in celebration of the twentieth anniversary of George R. R. Martin’s landmark series, this lavishly illustrated special edition of A Game of Thrones―with gorgeous full-page illustrations in every chapter―revitalizes the fantasy masterpiece that became a cultural phenomenon. In a land where summers can last decades and winters a lifetime, trouble is brewing. The cold is returning, and in the frozen wastes to the North of Winterfell, sinister and supernatural forces are massing beyond the kingdom’s protective Wall. At the centre of the conflict lie the Starks of Winterfell, a family as harsh and unyielding as the land they were born to. Sweeping from a region of brutal cold to a distant summertime kingdom of epicurean plenty, here is a tale of lords and ladies, soldiers and sorcerers, assassins and bastards, who come together in a time of grim omens. Amid plots and counterplots, tragedy and betrayal, victory and terror, the fate of the Starks, their allies, and their enemies hangs perilously in the balance, as each endeavours to win that deadliest of conflicts: the game of thrones."
+  },
+  {
+    "id": 39,
+    "title": "A Storm of Swords",
+    "author": "George R. R. Martin",
+    "price": 47.15,
+    "imageSrc": "images/A_storm_of_swords.jpg",
+    "imageDetailsSrc": [
+      "images/A_storm_of_swords.jpg",
+      "https://cdn.dc5.ro/img-prod/154927-1882353.jpeg"
+    ],
+    "category": "Fantasy",
+    "language": "English",
+    "publishing": "2011",
+    "isbn": "9780008115425",
+    "dimension": "l: 17.8cm | H: 25.4cm | 7.7cm | 1992g",
+    "description": "The third volume, part two of A Song of Ice and Fire, the greatest fantasy epic of the modern age. Now a major Sky Atlantic TV series from HBO, featuring a stellar cast. The Starks are scattered. Robb Stark may be King in the North, but he must bend to the will of the old tyrant Walder Frey if he is to hold his crown. And while his youngest sister, Arya, has escaped the clutches of the depraved Cersei Lannister and her son, the capricious boy-king Joffrey, Sansa Stark remains their captive. Meanwhile, across the ocean, Daenerys Stormborn, the last heir of the Dragon King, delivers death to the slave-trading cities of Astapor and Yunkai as she approaches Westeros with vengeance in her heart."
+  },
+  {
+    "id": 40,
+    "title": "The Bird King",
+    "author": "G. Willow Wilson",
+    "price": 16.75,
+    "imageSrc": "images/the_bird_king.jpg",
+    "imageDetailsSrc": [
+      "images/the_bird_king.jpg",
+      "https://cdn.dc5.ro/img-prod/347396612-0.jpeg"
+    ],
+    "category": "Fantasy",
+    "language": "English",
+    "publishing": "2019",
+    "isbn": "9781611854657",
+    "dimension": "l: 14cm | H: 20.8cm",
+    "description": "From award-winning author G. Willow Wilson, The Bird King is an epic journey set during the reign of the last sultan in the Iberian peninsula at the height of the Spanish Inquisition. G. Willow Wilson's debut novel Alif the Unseen (A&U, 2012) established her as a vital American Muslim literary voice. The Bird King tells the story of Fatima, a concubine in the royal court of Granada, the last emirate of Muslim Spain, and her dearest friend Hassan, the palace mapmaker. Hassan has a secret - he can draw maps of places he's never seen and bend the shape of reality. When representatives of the newly formed Spanish monarchy arrive to negotiate the sultan's surrender, Fatima befriends one of the women, not realising that she will see Hassan's gift as sorcery and a threat to Christian Spanish rule. With their freedoms at stake, what will Fatima risk to save Hassan and escape the palace walls? As Fatima and Hassan traverse Spain to find safety, The Bird King asks us to consider what love is and the price of freedom at a time when the West and the Muslim world were not yet separate."
+  },
+
+  {
+    "id": 41,
+    "title": "The Changeling",
+    "author": "Victor LaValle",
+    "price": 55.35,
+    "imageSrc": "images/the_changeling.jpg",
+    "imageDetailsSrc": [
+      "images/the_changeling.jpg",
+      "https://cgassets-1d48b.kxcdn.com/site/assets/files/406420/getimage.jpg"
+    ],
+    "category": "Fantasy",
+    "language": "English",
+    "publishing": "2018",
+    "isbn": "9781786893826",
+    "dimension": "l: 13cm | H: 20cm",
+    "description": "When Apollo Kagwa was just a child, his father disappeared, leaving him with recurring nightmares and a box labelled 'Improbabilia'. Now a successful book dealer, Kagwa has a family of his own after meeting and falling in love with Emma, a librarian. The two marry and have a baby: so far so happy-ever-after. However, as the pair settle into their new lives as parents, exhaustion and anxiety start to take their toll. Emma's behaviour becomes increasingly erratic, until one day she commits an unthinkable act, setting Apollo on a wild and fantastical quest through a suddenly otherworldly New York, in search of a wife and child he no longer recognises. An epic novel for our anxiety-ridden times, The Changeling is a tale of parenthood, love - in its most raw and brutal form - and, ultimately, humanity."
+  },
+
+  {
+    "id": 42,
+    "title": "The Way of Kings",
+    "author": "Brandon Sanderson",
+    "price": 63.45,
+    "imageSrc": "images/the_way_of_kings.jpg",
+    "imageDetailsSrc": [
+      "images/the_way_of_kings.jpg",
+      "https://m.media-amazon.com/images/I/81rjJoKDOPL._AC_UF1000,1000_QL80_.jpg"
+    ],
+    "category": "History",
+    "language": "English",
+    "publishing": "2021",
+    "isbn": "9780765365279",
+    "dimension": "l: 11cm | H: 17cm | 5.4cm | 570g",
+    "description": "From #1 New York Times bestselling author Brandon Sanderson, The Way of Kings, Book One of the Stormlight Archive begins an incredible new saga of epic proportion. Roshar is a world of stone and storms. Uncanny tempests of incredible power sweep across the rocky terrain so frequently that they have shaped ecology and civilization alike. Animals hide in shells, trees pull in branches, and grass retracts into the soilless ground. Cities are built only where the topography offers shelter. It has been centuries since the fall of the ten consecrated orders known as the Knights Radiant, but their Shardblades and Shardplate remain: mystical swords and suits of armor that transform ordinary men into near-invincible warriors. Men trade kingdoms for Shardblades. Wars were fought for them, and won by them. One such war rages on a ruined landscape called the Shattered Plains. There, Kaladin, who traded his medical apprenticeship for a spear to protect his little brother, has been reduced to slavery. In a war that makes no sense, where ten armies fight separately against a single foe, he struggles to save his men and to fathom the leaders who consider them expendable. Brightlord Dalinar Kholin commands one of those other armies. Like his brother, the late king, he is fascinated by an ancient text called The Way of Kings. Troubled by over-powering visions of ancient times and the Knights Radiant, he has begun to doubt his own sanity. Across the ocean, an untried young woman named Shallan seeks to train under an eminent scholar and notorious heretic, Dalinar's niece, Jasnah. Though she genuinely loves learning, Shallan's motives are less than pure. As she plans a daring theft, her research for Jasnah hints at secrets of the Knights Radiant and the true cause of the war. The result of over ten years of planning, writing, and world-building, The Way of Kings is but the opening movement of the Stormlight Archive, a bold masterpiece in the making."
+  },
+
+  {
+    "id": 43,
+    "title": "The Shadow Rising",
+    "author": "Robert Jordan",
+    "price": 13.25,
+    "imageSrc": "images/the_shadow_rising.jpg",
+    "imageDetailsSrc": [
+      "images/the_shadow_rising.jpg",
+      "https://mpd-biblio-covers.imgix.net/9780765334671.jpg"
+    ],
+    "category": "Modern",
+    "language": "English",
+    "publishing": "2019",
+    "isbn": "9781250251923",
+    "dimension": "l: 11cm | H: 19cm | 5cm | 510g",
+    "description": "The Wheel of Time turns and Ages come and go, leaving memories that become legend. Legend fades to myth, and even myth is long forgotten when the Age that gave it birth returns again. In the Third Age, an Age of Prophecy, the World and Time themselves hang in the balance. What was, what will be, and what is, may yet fall under the Shadow. The seals of Shayol Ghul are weak now, and the Dark One reaches out. The Shadow is rising to cover humankind. In Tar Valon, Min sees portents of hideous doom. Will the White Tower itself be broken? In the Two Rivers, the Whitecloaks ride in pursuit of a man with golden eyes, and in pursuit of the Dragon Reborn. In Cantorin, among the Sea Folk, High Lady Suroth plans the return of the Seanchan armies to the mainland. In the Stone of Tear, the Lord Dragon considers his next move. It will be something no one expects, not the Black Ajah, not Tairen nobles, not Aes Sedai, not Egwene or Elayne or Nynaeve. Against the Shadow rising stands the Dragon Reborn..."
+  },
+
+  {
+    "id": 44,
+    "title": "The Bloody Chamber",
+    "author": "Angela Carter",
+    "price": 39.95,
+    "imageSrc": "images/the_bloddy_chamber.jpg",
+    "imageDetailsSrc": [
+      "images/the_bloddy_chamber.jpg",
+      "https://m.media-amazon.com/images/I/914-0zZFhPL._AC_UF1000,1000_QL80_.jpg"
+    ],
+    "category": "History",
+    "language": "English",
+    "publishing": "2008",
+    "isbn": "9781405896160",
+    "dimension": "l: 14.7cm | H: 21cm | 0.8cm | 202g",
+    "description": "Full of analysis and interpretation, historical background, discussions and commentaries, York Notes will help you get right to the heart of the text youï¿½ re studying, whether itï¿½ s poetry, a play or a novel."
+  },
+  {
+    "id": 45,
+    "title": "Children of Blood and Bone",
+    "author": "Tomi Adeyemi",
+    "price": 32.95,
+    "imageSrc": "images/children_of_blood_and_bone.jpg",
+    "imageDetailsSrc": ["images/children_of_blood_and_bone.jpg"],
+    "category": "Fantasy",
+    "language": "English",
+    "publishing": "2018",
+    "isbn": "9781509871353",
+    "dimension": "l: 13cm | H: 20cm",
+    "description": "Tomi Adeyemi conjures a stunning world of dark magic and danger in her West African-inspired fantasy debut Children of Blood and Bone. They killed my mother. They took our magic. They tried to bury us. Now we rise. Zélie remembers when the soil of Orïsha hummed with magic. When different clans ruled – Burners igniting flames, Tiders beckoning waves, and Zélie’s Reaper mother summoning forth souls. But everything changed the night magic disappeared. Under the orders of a ruthless king, anyone with powers was targeted and killed, leaving Zélie without a mother and her people without hope. Only a few people remain with the power to use magic, and they must remain hidden. Zélie is one such person. Now she has a chance to bring back magic to her people and strike against the monarchy. With the help of a rogue princess, Zélie must learn to harness her powers and outrun the crown prince, who is hell-bent on eradicating magic for good. Danger lurks in Orïsha, where strange creatures prowl, and vengeful spirits wait in the waters. Yet the greatest danger may be Zélie herself as she struggles to come to terms with the strength of her magic – and her growing feelings for an enemy. The movie of Children of Blood and Bone is in development at Fox 2000/Temple Hill Productions with the incredible Karen Rosenfelt and Wyck Godfrey (Twilight, Maze Runner, The Fault In Our Stars) producing it."
+  },
+  {
+    "id": 46,
+    "title": "Myst: The Book of Atrus",
+    "author": "Rand Miller, Robyn Miller and David Wingrove",
+    "price": 47.85,
+    "imageSrc": "images/Myst.jpg",
+    "imageDetailsSrc": ["images/Myst.jpg"],
+    "category": "History",
+    "language": "English",
+    "publishing": "2013",
+    "isbn": "9780008314475",
+    "dimension": "l: 13cm | H: 20cm",
+    "description": "The Book of Atrus is the first book in the Myst series of novels, written by Ryan Miller in 1994. However the publisher Hyperion wanted a published author to work on the book so David Wingrove re-wrote the story with the help of Richard Vander Wende, Rand and Robyn Miller. After David Wingrove's reworking of the novel it was published in 1995. The book provides a lot of background information on the D'ni and the persons of the games. The book's main character is Atrus, following him throughout his birth and early youth with his grandmother Anna, and then through the meeting with his father Gehn. Later, Atrus' first writing and study of the Art appears."
+  },
+  {
+    "id": 47,
+    "title": "A Hero Born",
+    "author": "Jin Yong",
+    "price": 42.55,
+    "imageSrc": "images/A_here_born.jpg",
+    "imageDetailsSrc": [
+      "images/A_here_born.jpg",
+      "https://m.media-amazon.com/images/I/91kRfuTftkL._AC_UF1000,1000_QL80_.jpg"
+    ],
+    "category": "Modern",
+    "language": "English",
+    "publishing": "2020",
+    "isbn": "9781250220622",
+    "dimension": "l: 15.5cm | H: 23.4cm",
+    "description": "Set in ancient China, in a world where kung fu is magic, kingdoms vie for power and the battle to become the ultimate kung fu master unfolds, an unlikely hero is born... in the first book in the epic Legends of the Condor Heroes series by the critically acclaimed master of the genre, Jin Yong. After his father--a devoted Song patriot--is murdered by the Jin empire, Guo Jing and his mother flee to the plains of Ghengis Khan and his people for refuge. For one day he must face his mortal enemy in battle in the Garden of the Drunken Immortals. Under the tutelage of Genghis Khan and The Seven Heroes of the South, Guo Jing hones his kung fu skills. Humble, loyal and perhaps not always wise, Guo Jing faces a destiny both great and terrible. However, in a land divided--and a future largely unknown--Guo Jing must navigate love and war, honor and betrayal before he can face his own fate and become the hero he's meant to be. Legends of the Condor Heroes."
+  },
+
+  {
+    "id": 48,
+    "title": "Who Fears Death",
+    "author": "Nnedi Okorafor",
+    "price": 37.45,
+    "imageSrc": "images/who_fears_death.jpg",
+    "imageDetailsSrc": [
+      "images/who_fears_death.jpg",
+      "https://ouidabooks.com/wp-content/uploads/2020/01/who-fears.jpg"
+    ],
+    "category": "Modern",
+    "language": "English",
+    "publishing": "2018",
+    "isbn": "9780008288747",
+    "dimension": "l: 12.9cm | H: 19.7cm | 284g",
+    "description": "An award-winning literary author enters the world of magical realism with her World Fantasy Award-winning novel of a remarkable woman in post-apocalyptic Africa. Now optioned as a TV series for HBO, with executive producer George R.R. Martin!"
+  },
+
+  {
+    "id": 49,
+    "title": "The Grace of Kings",
+    "author": "Ken Liu",
+    "price": 43.95,
+    "imageSrc": "images/the_grace_of_kings.jpg",
+    "imageDetailsSrc": [
+      "images/the_grace_of_kings.jpg",
+      "https://cdn.dc5.ro/img-prod/1355207515-0.jpeg"
+    ],
+    "category": "History",
+    "language": "English",
+    "publishing": "2021",
+    "isbn": "9781800240346",
+    "dimension": "l: 12.9cm | H: 19.8cm",
+    "description": "Emperor Mapidere was the first to unite the island kingdoms of Dara under a single banner. But now the emperor is on his deathbed, his people are exhausted by his vast, conscriptive engineering projects and his counsellors conspire only for their own gain. Even the gods themselves are restless. A wily, charismatic bandit and the vengeance-sworn son of a deposed duke cross paths as they each lead their own rebellion against the emperor's brutal regime. Together, they will journey to the heart of the empire; witnessing the clash of armies, fleets of silk-draped airships, magical books and shapeshifting gods. Their unlikely friendship will drastically change the balance of power in Dara... but at what price?  The Grace of Kings is the first novel by Hugo-, Nebula- and World Fantasy Award-winner Ken Liu and the first in a monumental epic"
+  },
+  {
+    "id": 50,
+    "title": "A Wizard Of Earthsea",
+    "author": "Ursula K. Le Guin",
+    "price": 22.65,
+    "imageSrc": "images/a_wizard_of_earthsea.jpg",
+    "imageDetailsSrc": ["images/a_wizard_of_earthsea.jpg"],
+    "category": "Fantasy",
+    "language": "English",
+    "publishing": "1968",
+    "isbn": "9780008552564",
+    "dimension": "l: 13cm | H: 20cm",
+    "description": "A Wizard of Earthsea is a fantasy novel written by American author Ursula K. Le Guin and first published by the small press Parnassus in 1968. It is regarded as a classic of children's literature and of fantasy, within which it is widely influential. The story is set in the fictional archipelago of Earthsea and centers on a young mage named Ged, born in a village on the island of Gont. He displays great power while still a boy and joins a school of wizardry, where his prickly nature drives him into conflict with a fellow student. During a magical duel, Ged's spell goes awry and releases a shadow creature that attacks him. The novel follows Ged's journey as he seeks to be free of the creature."
+  }
+]

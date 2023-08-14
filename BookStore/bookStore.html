@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Book Store</title>
+    <link rel="stylesheet" href="style.css" />
+    <link
+      href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css"
+      rel="stylesheet"
+  </head>
+  <body>
+    <!--Navbar-->
+    <header>
+        <!--Navigation-->
+        <div class="nav container">
+          <a href="#" class="logo">Book Store</a>
+          <div class="dropdown">
+            <button class="dropbtn">Categories</button>
+            <div class="dropdown-content" id="categories-list">
+
+            </div>
+          </div>
+          <div class="search-bar">
+            <input type="text" placeholder="Search books....">
+            <button><i class='bx bx-search-alt-2'></i></button>
+          </div>
+          <i class="bx bxs-shopping-bags" id="cart-icon" data-quantity="0"></i>
+          <div class="cart">
+            <h2 class="cart-title">Your Shopping Cart</h2>
+            <div class="cart-content">
+            <div class="books-in-cart"></div>
+            <div class="total">
+              <div class="total-title">Total</div>
+              <div class="total-price">0$</div>
+            </div>
+            <button type="button" class="btn-buy">Pay Now</button>
+            <i class="bx bx-x" id="close-cart"></i>
+          </div>
+        </div>
+      </header>
+
+      <section class="book-section">
+        <h2 class="section-title">Shop for Books</h2>
+        <div class="book-container">
+
+        </div>
+      </section>
+
+      <!-- Pop-up Item already in Cart -->
+
+      <div class="custom-popup" id="customPopup">
+        <div class="custom-popup-content">
+          <span class="custom-popup-close" id="closePopup"><i class='bx bx-x'></i></span>
+          <p></p>
+        </div>
+      </div>
+
+    <script src="code.js"></script>
+  </body>
+</html>

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Find Meals - HomeWork</title>
+    <link rel="stylesheet" href="style.css" />
+    <link
+      href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div class="page-title">
+      <h2>Find Meals For Your Ingredients</h2>
+      <p>
+        Real food doesn't have ingredients, real food is ingredients. - Jamie
+        Oliver
+      </p>
+      <div class="search-bar">
+        <input
+          class="input-text"
+          type="text"
+          placeholder="Search here..."
+          name="search"
+        />
+        <button class="search-button" type="submit">Search</button>
+      </div>
+    </div>
+    <div class="content">
+      <h2>Your search results :</h2>
+      <div class="foods"></div>
+    </div>
+    <div id="recipePopUp" class="hidden">
+      <button id="closeWindow"><i class="bx bx-x"></i></button>
+      <h2 id="recipeTitle"></h2>
+      <p id="recipeMainIngredient"></p>
+      <p id="recipeInstructions"></p>
+      <img id="recipeImage" src="" alt="Recipe Image" />
+      <a id="recipeVideo" href="" target="_blank">Watch Video</a>
+    </div>
+
+    <script src="jscode.js"></script>
+  </body>
+</html>
